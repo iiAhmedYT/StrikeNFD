@@ -3,7 +3,7 @@
 ## Description
 This is a nofall damage per kit for StrikePractice
 ## How to install?
-Just put the jar file from the releases in your plugins folder
+Just put the jar file from the [releases](https://github.com/iiAhmedYT/StrikeNFD/releases/) in your plugins folder
 ## Commands
 Let us be honest here, there is one command which is
 `/StrikeNFD`
