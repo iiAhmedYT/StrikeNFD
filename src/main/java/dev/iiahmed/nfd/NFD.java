@@ -19,7 +19,7 @@ public final class NFD extends JavaPlugin {
     @Getter private static NFD instance;
     private List<String> kits;
     private FileConfiguration config;
-    private final String prefix = ChatColor.AQUA + "[Stike" + ChatColor.AQUA + "NFD] ";
+    private final String prefix = ChatColor.AQUA + "[StikeNFD] ";
 
     @Override
     public void onEnable() {
