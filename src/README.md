@@ -10,3 +10,5 @@ Let us be honest here, there is one command which is
 
 but what does it do? 
 well.. you can see the help message in-game :)
+
+#### Good luck!
