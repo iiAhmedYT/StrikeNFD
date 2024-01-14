@@ -1,7 +1,7 @@
 name: StrikeNFD
 version: '${project.version}'
-main: dev.iiahmed.nfd.NFD
+main: dev.iiahmed.nfd.StrikeNFD
 depend: [ StrikePractice ]
 commands:
   StrikeNFD:
-    description: 'The Main command of the plugin'
+    description: 'The StrikeNoFallDamage main command'
