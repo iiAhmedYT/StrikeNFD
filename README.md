@@ -1,6 +1,6 @@
 # WARNING: Deprecation
 This project is no longer required since this feature is currently available on the current StrikePractice DevBuilds
-
+(Will be available also on the next release)
 
 ## Description
 This is a nofall damage per kit for StrikePractice
