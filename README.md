@@ -1,4 +1,6 @@
-# StrikeNFD (NO FALLDAMAGE)
+# WARNING: Deprecation
+This project is no longer required since this feature is currently available on the current StrikePractice DevBuilds
+
 
 ## Description
 This is a nofall damage per kit for StrikePractice
